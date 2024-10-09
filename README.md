@@ -1,6 +1,10 @@
-![coñete](basura/loading-microsoft-windows.gif)
 # Dualboot-0chistorramecanica0
+
+![coñete](basura/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 chistorramecanica presenta este trabajazo de dualboot un shutout a toa la palmilla.
+
+![coñete](basura/diplein-come-on.gif)
 
 # Proyecto: Documentación Global
 
@@ -26,9 +30,15 @@ El proyecto está organizado en las siguientes carpetas:
 
 Para más detalles sobre cada entorno, visita el `README` respectivo.
 
-## Cómo usar este proyecto
+## Cómo usar este proyecto (por si acaso el lector tiene 33%)
 
-Dependiendo del sistema operativo que estés utilizando, sigue las instrucciones del README correspondiente:
+Dependiendo del sistema operativo que estés instalando, sigue las instrucciones del README correspondiente.
+
+Hay que tener en cuenta que la carpeta "Windows" tiene en su interior, VirtualBox y Windows.
+
+Y la carpeta "Linux" contiene GParted y Linux en su interior:
 
 - Si estás con **Linux**, sigue las instrucciones en [Documentación para Linux](./linux/README.md).
 - Si estás con **Windows**, sigue las instrucciones en [Documentación para Windows](./windows/README.md).
+
+![coñete](basura/1603fb7077abb9093f4af305b4e5ce79.gif)
