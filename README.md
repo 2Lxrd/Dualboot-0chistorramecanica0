@@ -27,4 +27,7 @@ Para más detalles sobre cada entorno, visita el `README` respectivo.
 
 ## Cómo usar este proyecto
 
-Dependiendo del sistema operativo que estés utilizando, sigue las instrucciones del README correspondiente.
+Dependiendo del sistema operativo que estés utilizando, sigue las instrucciones del README correspondiente:
+
+- Si estás con **Linux**, sigue las instrucciones en [Documentación para Linux](./linux/README.md).
+- Si estás con **Windows**, sigue las instrucciones en [Documentación para Windows](./windows/README.md).
