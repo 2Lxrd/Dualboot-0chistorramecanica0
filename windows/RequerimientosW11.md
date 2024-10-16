@@ -1,4 +1,4 @@
-Windows 11 tiene ciertos requisitos de hardware que deben cumplirse para poder instalarse y funcionar correctamente. Microsoft los ha ajustado para garantizar compatibilidad y un rendimiento óptimo, centrado en la seguridad, eficiencia y nuevas características. A continuación, te menciono los principales requerimientos del sistema para Windows 11:
+# Windows 11 tiene ciertos requisitos de hardware que deben cumplirse para poder instalarse y funcionar correctamente:
 
 ### **Requisitos mínimos de hardware:**
 
